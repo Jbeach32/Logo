@@ -1,0 +1,6 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="150" cy="100" r="50" fill="Blue" />
+        <text x="150" y="125" fill="Green" font-family="Arial" font-size="24" text-anchor="middle">JDB</text>
+      </svg>
+      
